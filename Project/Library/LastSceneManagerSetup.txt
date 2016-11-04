@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Tomat/Desktop/xmldataloader/xmldataloader/Assets/XmlDataLoader.unity
+  isLoaded: 1
+  isActive: 1

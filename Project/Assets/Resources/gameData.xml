@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DialogueCollection>
+  <Dialogue>
+    <Character name="Sebastiaan">
+      <Name>Sebastiaan</Name>
+      <Greetings>Howdy
+        <Response next="1">response 1</Response>
+        <Response next="2">response 2</Response>
+        <Response next="3">response 3</Response>
+        <Response next="4">response 4</Response>
+        <Response next="5">response 5</Response>
+        <Response next="5">response 5</Response>
+
+
+
+      </Greetings>
+    </Character>
+  </Dialogue>
+ </DialogueCollection>
